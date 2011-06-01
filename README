@@ -3,8 +3,8 @@ Templates&Sketches for AVR µC Series
 Copyright (c) 2011 invertednothing.
 http://invertednothing.com/
 
-If you are using this don't forget to setup the ARDUINO & AVRDUDE_DIR 
-variables in the provided Makefiles!
+If you are using the templates don't forget to setup the ARDUINO, AVRDUDE_DIR, 
+PORT, MCU and F_CPU variables provided in the Makefiles!
 
 
 Using the following libraries
