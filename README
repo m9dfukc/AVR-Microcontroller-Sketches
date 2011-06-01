@@ -1,30 +1,24 @@
-Tests&Sketches for the TI MSP430 Launchpad µC
+Templates&Sketches for AVR µC Series
 
 Copyright (c) 2011 invertednothing.
 http://invertednothing.com/
 
-If you are using this don't forget to setup the MSP430_DIR & MSPDEBUG_DIR 
+If you are using this don't forget to setup the ARDUINO & AVRDUDE_DIR 
 variables in the provided Makefiles!
 
-Official TI MSP430 LaunchPad resources 
-Official homepage – http://e2e.ti.com/group/msp430launchpad/w/default.aspx
-Wiki – http://processors.wiki.ti.com/index.php/MSP430_LaunchPad_(MSP-EXP430G2)
-Userguide – http://focus.ti.com/lit/ug/slau318/slau318.pdf
 
-Using the following (Arduino like) libraries
-EasyMSP – http://code.google.com/p/easymsp
-Friendly Launchpad – https://github.com/chrishulbert/friendly_launchpad
+Using the following libraries
+Arduino – http://arduino.cc/ (c abstractions for the avr standard lib)
+Arduino-Tiny – http://code.google.com/p/arduino-tiny/ (Arduino libs for ATTiny)
 
 Working with MacOs I'm using the following Open Source Toolchain
-mspgcc, mspdebug, ez430rf2500 – http://code.google.com/p/osx-launchpad/
+avrgcc, avrdude – http://www.obdev.at/products/crosspack/index.html
 
-MspGCC manual
-http://mspgcc.sourceforge.net/manual/
+AVRISP mkII programmer
+http://www.atmel.com/dyn/products/tools_card.asp?tool_id=3808
 
-MSP430 related blogs
-http://www.msp430launchpad.com/
-http://www.43oh.com/
-http://osx-launchpad.blogspot.com/
+AVR related blogs
+http://www.avrfreaks.net/
 
 
 
