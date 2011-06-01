@@ -1,0 +1,37 @@
+Tests&Sketches for the TI MSP430 Launchpad µC
+
+Copyright (c) 2011 invertednothing.
+http://invertednothing.com/
+
+If you are using this don't forget to setup the MSP430_DIR & MSPDEBUG_DIR 
+variables in the provided Makefiles!
+
+Official TI MSP430 LaunchPad resources 
+Official homepage – http://e2e.ti.com/group/msp430launchpad/w/default.aspx
+Wiki – http://processors.wiki.ti.com/index.php/MSP430_LaunchPad_(MSP-EXP430G2)
+Userguide – http://focus.ti.com/lit/ug/slau318/slau318.pdf
+
+Using the following (Arduino like) libraries
+EasyMSP – http://code.google.com/p/easymsp
+Friendly Launchpad – https://github.com/chrishulbert/friendly_launchpad
+
+Working with MacOs I'm using the following Open Source Toolchain
+mspgcc, mspdebug, ez430rf2500 – http://code.google.com/p/osx-launchpad/
+
+MspGCC manual
+http://mspgcc.sourceforge.net/manual/
+
+MSP430 related blogs
+http://www.msp430launchpad.com/
+http://www.43oh.com/
+http://osx-launchpad.blogspot.com/
+
+
+
+THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
+FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS
+IN THE SOFTWARE.

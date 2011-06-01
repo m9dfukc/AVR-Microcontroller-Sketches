@@ -1,0 +1,91 @@
+// !$*UTF8*$!
+{
+	4079523D0CEA382200E202DC /* Project object */ = {
+		activeBuildConfigurationName = Release;
+		activeTarget = 407952600CEA391500E202DC /* build */;
+		codeSenseManager = 9400439E1396A28400F60AAD /* Code sense */;
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					527,
+					20,
+					48.16259765625,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 328639077;
+			PBXWorkspaceStateSaveDate = 328639077;
+		};
+		perUserProjectItems = {
+			9400439F1396A29800F60AAD /* PBXBookmark */ = 9400439F1396A29800F60AAD /* PBXBookmark */;
+			940043A01396A29800F60AAD /* PBXTextBookmark */ = 940043A01396A29800F60AAD /* PBXTextBookmark */;
+		};
+		sourceControlManager = 9400439D1396A28400F60AAD /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	4079525F0CEA38CC00E202DC /* Makefile */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {705, 4458}}";
+			sepNavSelRange = "{2921, 7}";
+			sepNavVisRange = "{7189, 511}";
+		};
+	};
+	407952600CEA391500E202DC /* build */ = {
+		activeExec = 0;
+	};
+	9400439D1396A28400F60AAD /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	9400439E1396A28400F60AAD /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	9400439F1396A29800F60AAD /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 4079525F0CEA38CC00E202DC /* Makefile */;
+	};
+	940043A01396A29800F60AAD /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 4079525F0CEA38CC00E202DC /* Makefile */;
+		name = "Makefile: 76";
+		rLen = 7;
+		rLoc = 2921;
+		rType = 0;
+		vrLen = 511;
+		vrLoc = 7189;
+	};
+	DD4477A511219657004B391C /* clean */ = {
+		activeExec = 0;
+	};
+	DD4E92051115D223004B6C92 /* debug init */ = {
+		activeExec = 0;
+	};
+	DD940D88104D9D9E000BD14B /* fuse */ = {
+		activeExec = 0;
+	};
+	DD940D8B104D9DA1000BD14B /* flash */ = {
+		activeExec = 0;
+	};
+}
