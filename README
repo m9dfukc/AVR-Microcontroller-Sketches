@@ -14,6 +14,10 @@ Arduino-Tiny – http://code.google.com/p/arduino-tiny/ (Arduino libs for ATTiny
 Working with MacOs I'm using the following Open Source Toolchain
 avrgcc, avrdude – http://www.obdev.at/products/crosspack/index.html
 
+AVR Fuse Tools
+fuse calculator – http://www.engbedded.com/fusecalc/
+AVRfuses – http://www.vonnieda.org/software/avrfuses
+
 AVRISP mkII programmer
 http://www.atmel.com/dyn/products/tools_card.asp?tool_id=3808
 
