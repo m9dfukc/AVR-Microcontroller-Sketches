@@ -5,9 +5,9 @@
 	};
 	01706F590A347F9A00E43B08 /* Makefile */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {901, 3522}}";
-			sepNavSelRange = "{4749, 0}";
-			sepNavVisRange = "{4619, 740}";
+			sepNavIntBoundsRect = "{{0, 0}, {901, 3304}}";
+			sepNavSelRange = "{1059, 0}";
+			sepNavVisRange = "{0, 1931}";
 			sepNavWindowFrame = "{{15, 52}, {1416, 826}}";
 		};
 	};
@@ -63,15 +63,15 @@
 					PBXFileDataSource_Warnings_ColumnID,
 				);
 			};
-			PBXPerProjectTemplateStateSaveDate = 328638325;
-			PBXWorkspaceStateSaveDate = 328638325;
+			PBXPerProjectTemplateStateSaveDate = 328652262;
+			PBXWorkspaceStateSaveDate = 328652262;
 		};
 		perUserProjectItems = {
 			940E50CB1396910000C1B6F5 /* PBXTextBookmark */ = 940E50CB1396910000C1B6F5 /* PBXTextBookmark */;
 			940E50FC139699A900C1B6F5 /* PBXTextBookmark */ = 940E50FC139699A900C1B6F5 /* PBXTextBookmark */;
 			940E510A13969A3000C1B6F5 /* PBXTextBookmark */ = 940E510A13969A3000C1B6F5 /* PBXTextBookmark */;
-			940E510C13969A3000C1B6F5 /* PBXTextBookmark */ = 940E510C13969A3000C1B6F5 /* PBXTextBookmark */;
-			940E511713969F8500C1B6F5 /* PBXTextBookmark */ = 940E511713969F8500C1B6F5 /* PBXTextBookmark */;
+			94330BAB1396D60000E7F6D9 /* PBXTextBookmark */ = 94330BAB1396D60000E7F6D9 /* PBXTextBookmark */;
+			94330BB01397703000E7F6D9 /* PBXTextBookmark */ = 94330BB01397703000E7F6D9 /* PBXTextBookmark */;
 		};
 		sourceControlManager = 946C4A3C139442EB006E5CF8 /* Source Control */;
 		userBuildSettings = {
@@ -114,7 +114,7 @@
 		vrLen = 740;
 		vrLoc = 4619;
 	};
-	940E510C13969A3000C1B6F5 /* PBXTextBookmark */ = {
+	94330BAB1396D60000E7F6D9 /* PBXTextBookmark */ = {
 		isa = PBXTextBookmark;
 		fRef = F0084DE50D2E4A6C00BCB246 /* main.cpp */;
 		name = "main.cpp: 20";
@@ -124,14 +124,14 @@
 		vrLen = 347;
 		vrLoc = 0;
 	};
-	940E511713969F8500C1B6F5 /* PBXTextBookmark */ = {
+	94330BB01397703000E7F6D9 /* PBXTextBookmark */ = {
 		isa = PBXTextBookmark;
-		fRef = F0084DE50D2E4A6C00BCB246 /* main.cpp */;
-		name = "main.cpp: 20";
+		fRef = 01706F590A347F9A00E43B08 /* Makefile */;
+		name = "Makefile: 24";
 		rLen = 0;
-		rLoc = 259;
+		rLoc = 1059;
 		rType = 0;
-		vrLen = 347;
+		vrLen = 1931;
 		vrLoc = 0;
 	};
 	946C4A3C139442EB006E5CF8 /* Source Control */ = {

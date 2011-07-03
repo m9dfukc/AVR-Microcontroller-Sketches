@@ -65,7 +65,7 @@
 		};
 		01706F5B0A34807400E43B08 /* Upload */ = {
 			isa = PBXLegacyTarget;
-			buildArgumentsString = "$(ACTION) erase upload clean";
+			buildArgumentsString = "$(ACTION) upload";
 			buildConfigurationList = 01706F660A34808D00E43B08 /* Build configuration list for PBXLegacyTarget "Upload" */;
 			buildPhases = (
 			);
@@ -82,7 +82,7 @@
 /* Begin PBXProject section */
 		08FB7793FE84155DC02AAC07 /* Project object */ = {
 			isa = PBXProject;
-			buildConfigurationList = 01706F350A34762900E43B08 /* Build configuration list for PBXProject "basic attiny" */;
+			buildConfigurationList = 01706F350A34762900E43B08 /* Build configuration list for PBXProject "standard arduino" */;
 			compatibilityVersion = "Xcode 2.4";
 			developmentRegion = English;
 			hasScannedForEncodings = 1;
@@ -184,7 +184,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		01706F350A34762900E43B08 /* Build configuration list for PBXProject "basic attiny" */ = {
+		01706F350A34762900E43B08 /* Build configuration list for PBXProject "standard arduino" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				01706F360A34762900E43B08 /* Development */,
