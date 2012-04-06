@@ -6,6 +6,8 @@ http://invertednothing.com/
 If you are using the templates don't forget to setup the ARDUINO, AVRDUDE_DIR, 
 PORT, MCU and F_CPU variables provided in the Makefiles!
 
+HowTo use AVR's with XCode 
+embedXcode – http://embedxcode.weebly.com/
 
 Using the following libraries
 Arduino – http://arduino.cc/ (c abstractions for the avr standard lib)

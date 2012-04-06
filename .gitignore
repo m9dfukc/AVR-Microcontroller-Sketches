@@ -4,8 +4,13 @@
 *.class
 *.dll
 *.exe
-*.o
 *.so
+*.slo
+*.lo
+*.o
+*.lai
+*.la
+*.a
 
 # Packages #
 ############
